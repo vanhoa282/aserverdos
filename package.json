@@ -1,0 +1,9 @@
+{
+    "name": "ddos-app",
+    "scripts": {
+        "start": "node ddos.js"
+    },
+    "dependencies": {
+        "hpack": "^2.0.0"
+    }
+}
